@@ -21,7 +21,8 @@ Explicar porque o projeto é importante nesse contexto
 
 ## Casos de utilização:
 (substituir todo o texto pelo vosso) \
-Definir 3 casos de utilização (o primeiro deve ser core) cada um com o template mostrado em baixo.
+Definir 3 casos de utilização (o primeiro deve ser core) cada um com o template mostrado em baixo. \
+Cada caso de uso tem um nome, uma descrição, pré-condições (pode-se omitir se vazio), passsos e pós-condições (pode-se omitir se vazio)
 
 ### nome do caso de uso
 **Descrição:** \
