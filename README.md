@@ -21,11 +21,13 @@ Explicar porque o projeto é importante nesse contexto
 
 ## Casos de utilização:
 (substituir todo o texto pelo vosso)
+
 Definir 3 casos de utilização (o primeiro deve ser core) cada um com o template mostrado em baixo.
 
 
 ### nome do caso de uso
 **Descrição:**
+
 Texto descritivo
 
 **Pré-condições:**
@@ -42,8 +44,12 @@ Texto descritivo
 
 
 ## Referências:
+
 (substituir todo o texto pelo vosso)
+
 Usar a norma APA. Para o caso de sites podem usar:
+
 [1] Autor, A.A. (2000). Título do documento. Acedido em: dia, mês, ano, em: URL.
+
 (Ano/autor podem ser removidos se não fizerem sentido para o site, o resto é obrigatório) >>
 
