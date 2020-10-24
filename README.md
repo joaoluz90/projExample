@@ -1,4 +1,4 @@
-# <<Título (substituir)>>
+# Título (substituir)
 
 
 
@@ -6,27 +6,27 @@
 
 | Número | Nome |
 |--------|------|
-| <<num1>> | <<nome1>> |
-| <<num2>> | <<nome2>> |
+|  num1  | nome1 |
+|  num2  | nome2 |
 
 ## Enquadramento
 (substituir todo o texto pelo vosso)
-<<Descrição do contexto do projeto numa perspetiva de produto, i.e. sem descrições técnicas de implementação. 
+Descrição do contexto do projeto numa perspetiva de produto, i.e. sem descrições técnicas de implementação. 
 Explicar o que é o projeto/produto
 Descrever o contexto em que o projeto está inserido:
 - Referências a sites ou documentos que deem mais informação sobre o contexto
 - Referências a outros produtos similares
 - Ambas os tipos de referências deve ser introduzidas nesta secção indicando um número que corresponde a uma entrada na secção de “Referências”
-Explicar porque o projeto é importante nesse contexto>>
+Explicar porque o projeto é importante nesse contexto
 
 ## Casos de utilização:
 (substituir todo o texto pelo vosso)
-<<Definir 3 casos de utilização (o primeiro deve ser core) cada um com o template mostrado em baixo.>> 
+Definir 3 casos de utilização (o primeiro deve ser core) cada um com o template mostrado em baixo.
 
 
-### << nome do caso de uso >>
-
+### nome do caso de uso
 **Descrição:**
+Texto descritivo
 
 **Pré-condições:**
 - O caso de utilização pode ter pré-condições (ex: estar logado, o pedido não estar pago, etc). 
@@ -39,8 +39,6 @@ Explicar porque o projeto é importante nesse contexto>>
 **Pós-condições:**
 - Indica as alterações que decorreram das ações (ex: o pedido é guardado)
 - Podem omitir se não existirem pós-condições.
-
-
 
 
 ## Referências:
