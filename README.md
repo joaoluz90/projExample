@@ -23,6 +23,8 @@ Explicar porque o projeto é importante nesse contexto>>
 (substituir todo o texto pelo vosso)
 <<Definir 3 casos de utilização (o primeiro deve ser core) cada um com o template mostrado.>> 
 
+|           |
+|-----------|
 | **Nome:** |
 | **Descrição:** |
 | **Pré-condições:**
