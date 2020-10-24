@@ -21,19 +21,26 @@ Explicar porque o projeto é importante nesse contexto>>
 
 ## Casos de utilização:
 (substituir todo o texto pelo vosso)
-<<Definir 3 casos de utilização (o primeiro deve ser core) cada um com o template mostrado.>> 
+<<Definir 3 casos de utilização (o primeiro deve ser core) cada um com o template mostrado em baixo.>> 
 
-**Nome:**
+
+### << nome do caso de uso >>
+
 **Descrição:**
+
 **Pré-condições:**
 - O caso de utilização pode ter pré-condições (ex: estar logado, o pedido não estar pago, etc). 
-- Podem omitir se não existirem pré-condições |
+- Podem omitir se não existirem pré-condições 
+
 **Passo a passo:**
 1. Um caso de utilização consiste na descrição passo a passo (itemizado) de como um utilizador consegue fazer algo na aplicação. Indicando as ações relevantes e a informação relevante que é mostrada ao utilizador.
 1. O passo a passo pode começar num dos passos de um caso de utilização anterior (ex: no passo 3 do caso de utilização Y …) 
+
 **Pós-condições:**
 - Indica as alterações que decorreram das ações (ex: o pedido é guardado)
 - Podem omitir se não existirem pós-condições.
+
+
 
 
 ## Referências:
