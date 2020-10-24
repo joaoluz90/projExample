@@ -10,24 +10,21 @@
 |  num2  | nome2 |
 
 ## Enquadramento
-(substituir todo o texto pelo vosso)
-Descrição do contexto do projeto numa perspetiva de produto, i.e. sem descrições técnicas de implementação. 
-Explicar o que é o projeto/produto
-Descrever o contexto em que o projeto está inserido:
+(substituir todo o texto pelo vosso) \
+Descrição do contexto do projeto numa perspetiva de produto, i.e. sem descrições técnicas de implementação. \ 
+Explicar o que é o projeto/produto \
+Descrever o contexto em que o projeto está inserido: \
 - Referências a sites ou documentos que deem mais informação sobre o contexto
 - Referências a outros produtos similares
 - Ambas os tipos de referências deve ser introduzidas nesta secção indicando um número que corresponde a uma entrada na secção de “Referências”
 Explicar porque o projeto é importante nesse contexto
 
 ## Casos de utilização:
-(substituir todo o texto pelo vosso)
-
+(substituir todo o texto pelo vosso) \
 Definir 3 casos de utilização (o primeiro deve ser core) cada um com o template mostrado em baixo.
 
-
 ### nome do caso de uso
-**Descrição:**
-
+**Descrição:** \
 Texto descritivo
 
 **Pré-condições:**
@@ -44,12 +41,8 @@ Texto descritivo
 
 
 ## Referências:
-
-(substituir todo o texto pelo vosso)
-
-Usar a norma APA. Para o caso de sites podem usar:
-
-[1] Autor, A.A. (2000). Título do documento. Acedido em: dia, mês, ano, em: URL.
-
-(Ano/autor podem ser removidos se não fizerem sentido para o site, o resto é obrigatório) >>
+(substituir todo o texto pelo vosso) \
+Usar a norma APA. Para o caso de sites podem usar: \
+[1] Autor, A.A. (2000). Título do documento. Acedido em: dia, mês, ano, em: URL. \
+(Ano/autor podem ser removidos se não fizerem sentido para o site, o resto é obrigatório)
 
