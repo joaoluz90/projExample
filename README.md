@@ -11,9 +11,9 @@
 
 ## Enquadramento
 (substituir todo o texto pelo vosso) \
-Descrição do contexto do projeto numa perspetiva de produto, i.e. sem descrições técnicas de implementação. \ 
+Descrição do contexto do projeto numa perspetiva de produto, i.e. sem descrições técnicas de implementação. \
 Explicar o que é o projeto/produto \
-Descrever o contexto em que o projeto está inserido: \
+Descrever o contexto em que o projeto está inserido:
 - Referências a sites ou documentos que deem mais informação sobre o contexto
 - Referências a outros produtos similares
 - Ambas os tipos de referências deve ser introduzidas nesta secção indicando um número que corresponde a uma entrada na secção de “Referências”
