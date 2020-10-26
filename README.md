@@ -30,7 +30,7 @@ Texto descritivo
 
 **Pré-condições:**
 - O caso de utilização pode ter pré-condições (ex: estar logado, o pedido não estar pago, etc). 
-- Podem omitir se não existirem pré-condições 
+- Podem escrever NA se não existirem pré-condições 
 
 **Passo a passo:**
 1. Um caso de utilização consiste na descrição passo a passo (itemizado) de como um utilizador consegue fazer algo na aplicação. Indicando as ações relevantes e a informação relevante que é mostrada ao utilizador.
@@ -38,7 +38,7 @@ Texto descritivo
 
 **Pós-condições:**
 - Indica as alterações que decorreram das ações (ex: o pedido é guardado)
-- Podem omitir se não existirem pós-condições.
+- Podem escrever NA se não existirem pós-condições.
 
 
 ## Referências:
